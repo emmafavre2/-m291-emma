@@ -5,6 +5,6 @@ Je suis en formation médiamaticienne, en 3iem année et j'adore l'édition
 - J'utilise l'ia pour m'aider
 - Finir mon livre
 ## Mon projet (idée en une phrase)
-Quel personnage es-tu ? version avec les persos de mon livre
+Quel personnage es-tu ? version avec les personnages du livre que j'ai écrit.
 ## Comment me trouver
 - GitHub : emmafavre2
